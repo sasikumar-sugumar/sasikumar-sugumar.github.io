@@ -1,0 +1,12 @@
+# - name: "Project Name"
+#   date: "2015"
+#   description: |
+#     Project description goes here.
+#   url: "http://www.projectname.com"
+#   image: "projectlogo.png"
+# - name: "Another Project Name"
+#   date: "2015"
+#   description: |
+#     Project description goes here.
+#   url: "http://www.projectname.com"
+#   image: "projectlogo.png"
