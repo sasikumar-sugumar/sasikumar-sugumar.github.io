@@ -1,58 +1,58 @@
 # Website settings
 baseurl: "/"
-url: "http://gokhanettin.github.io"
+url: "http://sasikumar-sugumar.github.io"
 
 # Internal nav
 nav:
   main:
-    writing: "/writing"
+#    writing: "/writing"
 #    speaking: "/speaking"
-    projects: "/projects"
+#    projects: "/projects"
 #    photos: "/photos"
-  writing:
-    all: "/writing"
-    popular: "/writing/popular"
-    tags: "/writing/tags"
-    rss: "/feed.xml"
+#  writing:
+#    all: "/writing"
+#    popular: "/writing/popular"
+#    tags: "/writing/tags"
+#    rss: "/feed.xml"
 
 # Bio settings
-name: "Gökhan Karabulut"
-slogan: "Software developer, electronics enthusiast, online learner"
+name: "Sasikumar Sugumar"
+slogan: "AWS Cloud Developer, Solution Architect, Paas Evangelist"
 description: "My personal blog on which I share my thoughts and notes."
 thumbnail_path: "blog-author-medium.jpg"
-website_repo_url: "https://github.com/gokhanettin/gokhanettin.github.io"
+website_repo_url: "https://sasikumarsugumar.io"
 
 # URLs
 contact_urls:
   twitter:
-    url: "https://twitter.com/gokhanettin"
+    url: "https://twitter.com/sasisugumar"
     label: "Twitter"
     icon: "twitter-square"
     username: "@gokhanettin"
   linkedin:
-    url: "https://tr.linkedin.com/in/gökhan-karabulut-40b884104"
+    url: "https://www.linkedin.com/in/sasikumarsugumar"
     label: "LinkedIn"
     icon: "linkedin-square"
   facebook:
-    url: "https://www.facebook.com/gokhanettin"
+    url: "https://www.facebook.com/sasikumar.sugumar.5"
     label: "Facebook"
     icon: "facebook-square"
-  google:
-    url: "https://plus.google.com/u/0/100257541738467946513"
-    label: "Google+"
-    icon: "google-plus-square"
+#  google:
+#    url: "https://plus.google.com/u/0/100257541738467946513"
+#    label: "Google+"
+#    icon: "google-plus-square"
 #  slideshare:
 #    url: "https://www.slideshare.net/<username>"
 #    label: "SlideShare"
 #    icon: "slideshare"
   github:
-    url: "https://github.com/gokhanettin"
+    url: "https://github.com/sasikumar-sugumar"
     label: "GitHub"
     icon: "github-square"
   email:
-    url: "mailto:gokhanettin@gmail.com"
+    url: "mailto:sasisugumar@gmail.com"
     label: "Email"
-    value: "gokhanettin@gmail.com"
+    value: "sasisugumar@gmail.com"
     icon: "envelope-square"
 # Jekyll build settings
 paginate: 10
