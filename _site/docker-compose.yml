@@ -1,5 +1,5 @@
 web:  
-  image: gokhanettin/gokhanettin.github.io
+  image: eurosasi/sasikumar-sugumar.github.io
   volumes:
     - .:/src
   ports:

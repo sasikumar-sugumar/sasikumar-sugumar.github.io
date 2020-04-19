@@ -1,8 +1,8 @@
-# Gokhan Karabulut Home Page
+# Sasikumar Sugumar Home Page
 
-This is the code for the [Gokhan Karabulut Home Page](http://gokhanettin.github.io).
+This is the code for the [Sasikumar Sugumar Home Page](http://sasikumarsugumar.io).
 
-This is my home page based on [Yevgeniy Brikman Home Page](http://www.ybrikman.com).
+This is my home page based on [Gokhan Karabulut Home Page](http://gokhanettin.github.io).
 Check out [Migrating from Blogger to GitHub Pages and launching the new ybrikman.com](http://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
 for background info.
 

@@ -1,5 +1,5 @@
 FROM gliderlabs/alpine:3.2
-MAINTAINER Gökhan Karabulut <gokhanettin@gmail.com>
+MAINTAINER Sasikumar Sugumar <sasisugumar@gmail.com>
 
 # Install all the dependencies for Jekyll
 RUN apk-install bash build-base libffi-dev zlib-dev libxml2-dev libxslt-dev ruby ruby-dev nodejs

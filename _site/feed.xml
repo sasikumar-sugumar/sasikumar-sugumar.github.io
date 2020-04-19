@@ -1,94 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Gökhan Karabulut</title>
+    <title>Sasikumar Sugumar</title>
     <description>My personal blog on which I share my thoughts and notes.</description>    
-    <link>http://gokhanettin.github.io</link>
-    <atom:link href="http://gokhanettin.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://sasikumar-sugumar.github.io</link>
+    <atom:link href="http://sasikumar-sugumar.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>3. Driverless Car: Simple PID - Path Tracking (variable desired speed)</title>
+        <title>Books I am reading in 2020</title>
                 
         
-          <description>&lt;p&gt;It is clear that when we properly slow down the speed before taking a turn, we
-lower the risk of driving out of the path. To do that we have to be able to
-change desired speed, and a means of speed recommendation.&lt;/p&gt;
+          <description>&lt;h2 id=&quot;listening-&quot;&gt;Listening :&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;The Waste Land &amp;amp; Four Quartets&lt;/strong&gt; (By: T.S. Eliot - Narrated by: Paul Scofield)&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
         
-        <pubDate>Sat, 23 Jul 2016 00:00:00 +0300</pubDate>
-        <link>http://gokhanettin.github.io/writing/2016/07/23/3-driverless-car-simple-pid-path-tracking</link>
-        <guid isPermaLink="true">http://gokhanettin.github.io/writing/2016/07/23/3-driverless-car-simple-pid-path-tracking</guid>
-      </item>
-    
-      <item>
-        <title>2. Driverless Car: Simple PID - Path Tracking (smoothed path)</title>
-                
-        
-          <description>&lt;p&gt;My RC car’s steering angle is 18 degrees maximum. It can’t handle sharp turns
-very well. One way to address this issue is path-smoothing.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Tue, 12 Jul 2016 00:00:00 +0300</pubDate>
-        <link>http://gokhanettin.github.io/writing/2016/07/12/2-driverless-car-simple-pid-path-tracking</link>
-        <guid isPermaLink="true">http://gokhanettin.github.io/writing/2016/07/12/2-driverless-car-simple-pid-path-tracking</guid>
-      </item>
-    
-      <item>
-        <title>1. Driverless Car: Simple PID - Path Tracking</title>
-                
-        
-          <description>&lt;p&gt;Sebastian Thrun’ s &lt;a href=&quot;https://www.youtube.com/watch?v=bp9KBrH8H04&quot;&gt;TED Talk&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=r_T-X4N7hVQ&quot;&gt;TEDx Brussels Talk&lt;/a&gt; struck me. Shortly
-after, I found his &lt;a href=&quot;https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373&quot;&gt;Artificial Intelligence for Robotics Course&lt;/a&gt; at Udacity
-and thought I could start a hobby project, a self-driving RC car. If this hobby
-project makes fair amount of progress it could hopefully pave the way for
-miniature version of &lt;a href=&quot;https://www.youtube.com/watch?v=M2AcMnfzpNg&quot;&gt;DARPA Grand Challenge&lt;/a&gt; with RC cars. Moreover, we can
-move &lt;a href=&quot;http://teamsolaris.com/site/eng/index.html&quot;&gt;solar cars&lt;/a&gt; one step further and arrange driverless solar car races.
-Article &lt;a href=&quot;http://robots.stanford.edu/papers/thrun.stanley05.pdf&quot;&gt;Stanley: The Robot that Won the DARPA Grand Challenge&lt;/a&gt; gives great
-insight into the format of the challenge. Miniature challenge can also use a
-similar format.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 11 Jul 2016 00:00:00 +0300</pubDate>
-        <link>http://gokhanettin.github.io/writing/2016/07/11/1-driverless-car-simple-pid-path-tracking</link>
-        <guid isPermaLink="true">http://gokhanettin.github.io/writing/2016/07/11/1-driverless-car-simple-pid-path-tracking</guid>
-      </item>
-    
-      <item>
-        <title>ldoce5viewer Installation on a Debian based 64-bit Distro</title>
-                
-        
-          <description>&lt;p&gt;Longman Dictionary of Contemporary English 5 (LDOCE5) software won’t install on
-Ubuntu GNOME 16.04 LTS, but it is not a big deal since I wouldn’t use the
-official software. I use the great &lt;a href=&quot;https://forward-backward.co.jp/ldoce5viewer/&quot;&gt;ldoce5viewer&lt;/a&gt; -a python based application-
-instead. It requires &lt;em&gt;ldoce5.data&lt;/em&gt; directory from the LDOCE5 DVD-ROM.
-&lt;a href=&quot;https://forward-backward.co.jp/ldoce5viewer/&quot;&gt;ldoce5viewer&lt;/a&gt; extracts the data, creates its index for incremental search out
-of &lt;em&gt;ldoce5.data&lt;/em&gt; folder, and it is ready to go. I find it much more
-user-friendly and faster than the official software.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 03 Sep 2015 00:00:00 +0300</pubDate>
-        <link>http://gokhanettin.github.io/writing/2015/09/03/ldoce5viewer-intallation-on-64-bit-debian-distro</link>
-        <guid isPermaLink="true">http://gokhanettin.github.io/writing/2015/09/03/ldoce5viewer-intallation-on-64-bit-debian-distro</guid>
-      </item>
-    
-      <item>
-        <title>Grub UEFI and Legacy Multiboot from a USB Stick</title>
-                
-        
-          <description>&lt;p&gt;&lt;strong&gt;Caution:&lt;/strong&gt; Following instructions may break your computer wiping off your
-harddisk. These instructions are my personal notes. They were written as a
-future reference and don’t mean to be a complete guide. Follow them at your own
-risk.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 02 Sep 2015 00:00:00 +0300</pubDate>
-        <link>http://gokhanettin.github.io/writing/2015/09/02/grub-uefi-and-legacy-multiboot-from-a-usb-stick</link>
-        <guid isPermaLink="true">http://gokhanettin.github.io/writing/2015/09/02/grub-uefi-and-legacy-multiboot-from-a-usb-stick</guid>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 +0300</pubDate>
+        <link>http://sasikumar-sugumar.github.io/writing/2020/04/19/3-books-i-am-reading-2020</link>
+        <guid isPermaLink="true">http://sasikumar-sugumar.github.io/writing/2020/04/19/3-books-i-am-reading-2020</guid>
       </item>
     
   </channel>

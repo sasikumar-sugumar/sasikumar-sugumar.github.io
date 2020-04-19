@@ -5,12 +5,12 @@ url: "http://sasikumar-sugumar.github.io"
 # Internal nav
 nav:
   main:
-#    writing: "/writing"
+    writing: "/writing"
 #    speaking: "/speaking"
 #    projects: "/projects"
 #    photos: "/photos"
-#  writing:
-#    all: "/writing"
+  writing:
+    all: "/writing"
 #    popular: "/writing/popular"
 #    tags: "/writing/tags"
 #    rss: "/feed.xml"
